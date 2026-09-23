@@ -19,15 +19,10 @@ Mobile and backend engineering: React Native and Flutter apps people depend on, 
 
 ## Current Projects
 
-- **Empower by Amartha** — Microfinance super-app serving grassroots entrepreneurs across Indonesia. Shipped Recurring Donation end to end: Kafka + Go services processing transactions asynchronously, Flutter donation flows inside the React Native core. In production.
-- **Ta'aruf Syar'i** — Sharia-compliant Muslim courtship app designed and shipped solo on the MERN stack. Live on Google Play.
-- **Zahir HR & POSX** — Core features across two flagship products, plus a live patrol tracking system and ML Kit face-recognition attendance.
-- **WeCare.id** — React Native healthtech crowdfunding platform connecting donors with patients, maintained at scale for thousands of users.
-
-## Recognition
-
-- **1st Winner**, GMAS Awards 2017 — Global Mobile App Summit & Awards, national mobile app competition
-- **2nd Winner**, IGDC — Indonesia Game Developer Competition, national game dev award
+- **Empower by Amartha**: Microfinance super-app serving grassroots entrepreneurs across Indonesia. Shipped Recurring Donation end to end: Kafka + Go services processing transactions asynchronously, Flutter donation flows inside the React Native core. In production.
+- **Ta'aruf Syar'i**: Sharia-compliant Muslim courtship app designed and shipped solo on the MERN stack. Live on Google Play.
+- **Zahir HR & POSX**: Core features across two flagship products, plus a live patrol tracking system and ML Kit face-recognition attendance.
+- **WeCare.id**: React Native healthtech crowdfunding platform connecting donors with patients, maintained at scale for thousands of users.
 
 ## Elsewhere
 
