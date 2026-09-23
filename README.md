@@ -27,5 +27,5 @@ Mobile and backend engineering: React Native and Flutter apps people depend on, 
 ## Elsewhere
 
 - LinkedIn: [rakhmat-sabarudin](https://www.linkedin.com/in/rakhmat-sabarudin-42922612a)
-- GitLab: [@rakhmat.sabarudin](https://gitlab.com/rakhmat.sabarudin)
+- GitLab: [@rakhmat95](https://gitlab.com/rakhmat95)
 - Email: rakhmatsabarudin@gmail.com
