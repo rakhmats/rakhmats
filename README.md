@@ -15,7 +15,7 @@ Software Engineer building mobile and backend systems. 7+ years shipping fintech
 
 ## Focus
 
-Mobile and backend engineering: React Native and Flutter apps people depend on, Go services and Kafka pipelines behind them. Clean architecture, observability, and reliability designed in from day one.
+Mobile and backend engineering. React Native and Flutter apps people depend on, Go services and Kafka pipelines behind them. Clean architecture, observability, and reliability designed in from day one.
 
 ## Current Projects
 
@@ -23,9 +23,3 @@ Mobile and backend engineering: React Native and Flutter apps people depend on, 
 - **Ta'aruf Syar'i**: Sharia-compliant Muslim courtship app designed and shipped solo on the MERN stack. Live on Google Play.
 - **Zahir HR & POSX**: Core features across two flagship products, plus a live patrol tracking system and ML Kit face-recognition attendance.
 - **WeCare.id**: React Native healthtech crowdfunding platform connecting donors with patients, maintained at scale for thousands of users.
-
-## Elsewhere
-
-- LinkedIn: [rakhmat-sabarudin](https://www.linkedin.com/in/rakhmat-sabarudin-42922612a)
-- GitLab: [@rakhmat95](https://gitlab.com/rakhmat95)
-- Email: rakhmatsabarudin@gmail.com
